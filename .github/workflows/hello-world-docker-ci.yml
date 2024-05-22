@@ -2,8 +2,7 @@ name: CD on Docker
 on: 
   push:
     branches: [main]
-    paths: [hello-world-docker-action/**] 
-    paths-ignore: ['./github/**']
+    paths: [hello-world-docker-action/**]
   workflow_dispatch:
     
 jobs:
