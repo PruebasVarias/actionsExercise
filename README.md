@@ -70,3 +70,4 @@ Find common terminology for reference [here](./CheatSheet.md)
 
 ## Execute Action JC
 ## It isn´t execute the Action JC
+## Execute Action by pull request JC
